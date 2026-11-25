@@ -65,7 +65,7 @@ def TTS(response):
 def main():
     # 기본 설정
     st.set_page_config(
-        page_title="민희 프렌드 봇",
+        page_title="태린 프렌드 봇",
         layout="wide")
 
     # session state 초기화
